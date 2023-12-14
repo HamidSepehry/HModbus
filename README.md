@@ -1,4 +1,4 @@
-HModbus (Updated from NModbus4)
+HModbus (Recreated from NModbus4)
 =======
 
 |           |Build Status|Code Coverage|
@@ -8,7 +8,7 @@ HModbus (Updated from NModbus4)
 
 [![Join the chat at https://gitter.im/NModbus4/NModbus4](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NModbus4/NModbus4?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-NModbus is a C# implementation of the Modbus protocol.
+HModbus is a C# implementation of the Modbus protocol re-created from an old library named NModbus4.
 Provides connectivity to Modbus slave compatible devices and applications.
 Supports serial ASCII, serial RTU, TCP, and UDP protocols.
 NModbus4 it's a fork of NModbus(https://code.google.com/p/nmodbus).
@@ -29,8 +29,8 @@ To install NModbus4, run the following command in the Package Manager Console
 
 Documentation
 =======
-Documentation is available in chm format (NModbus.chm)
+Documentation is available in chm format (HModbus.chm)
 
 License
 =======
-NModbus4 is licensed under the [MIT license](LICENSE.txt).
+HModbus (NModbus4) is licensed under the [MIT license](LICENSE.txt).
